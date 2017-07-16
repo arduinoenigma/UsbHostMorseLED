@@ -1,4 +1,7 @@
 //-----------------------
+//
+//Download and install https://github.com/felis/USB_Host_Shield_2.0
+//
 //Locate the following line in Libraries\Documents\Arduino\libraries\USB_Host_Shield_2.0-master\UsbCore.h
 //
 //typedef MAX3421e<P10, P9> MAX3421E; 
