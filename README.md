@@ -8,7 +8,7 @@ Hardware used:
 USBHOST add-on for Arduino Nano:
 http://www.gravitech.us/usadforarna.html<br>
 Using a soldering iron, bridge the VIN, INT and GPS solder pads.
-Connect a 9V battery to the screw terminals in the shield, this will also power the USB port
+Connect a 9V battery to the screw terminals in the shield, this will also power the USB port and any attached devices.
 
 Arduino Nano:
 http://www.gravitech.us/arna30wiatp.html
